@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "file": "art/prints/001-mandala-ocean.svg",
+    "title": "Mandala \u00b7 Ocean",
+    "category": "Geometric"
+  },
+  {
+    "n": 2,
+    "file": "art/prints/002-mandala-blush.svg",
+    "title": "Mandala \u00b7 Blush",
+    "category": "Geometric"
+  },
+  {
+    "n": 3,
+    "file": "art/prints/003-mandala-mono-ink.svg",
+    "title": "Mandala \u00b7 Mono Ink",
+    "category": "Geometric"
+  },
+  {
+    "n": 4,
+    "file": "art/prints/004-mandala-plum.svg",
+    "title": "Mandala \u00b7 Plum",
+    "category": "Geometric"
+  },
+  {
+    "n": 5,
+    "file": "art/prints/005-mandala-citrus.svg",
+    "title": "Mandala \u00b7 Citrus",
+    "category": "Geometric"
+  },
+  {
+    "n": 6,
+    "file": "art/prints/006-mandala-dune.svg",
+    "title": "Mandala \u00b7 Dune",
+    "category": "Geometric"
+  },
+  {
+    "n": 7,
+    "file": "art/prints/007-mandala-mint-noir.svg",
+    "title": "Mandala \u00b7 Mint Noir",
+    "category": "Geometric"
+  },
+  {
+    "n": 8,
+    "file": "art/prints/008-mandala-slate-rose.svg",
+    "title": "Mandala \u00b7 Slate Rose",
+    "category": "Geometric"
+  },
+  {
+    "n": 9,
+    "file": "art/prints/009-mountain-range-cobalt.svg",
+    "title": "Mountain Range \u00b7 Cobalt",
+    "category": "Landscape"
+  },
+  {
+    "n": 10,
+    "file": "art/prints/010-mountain-range-midnight.svg",
+    "title": "Mountain Range \u00b7 Midnight",
+    "category": "Landscape"
+  },
+  {
+    "n": 11,
+    "file": "art/prints/011-mountain-range-cobalt.svg",
+    "title": "Mountain Range \u00b7 Cobalt",
+    "category": "Landscape"
+  },
+  {
+    "n": 12,
+    "file": "art/prints/012-mountain-range-dune.svg",
+    "title": "Mountain Range \u00b7 Dune",
+    "category": "Landscape"
+  },
+  {
+    "n": 13,
+    "file": "art/prints/013-mountain-range-cobalt.svg",
+    "title": "Mountain Range \u00b7 Cobalt",
+    "category": "Landscape"
+  },
+  {
+    "n": 14,
+    "file": "art/prints/014-mountain-range-blush.svg",
+    "title": "Mountain Range \u00b7 Blush",
+    "category": "Landscape"
+  },
+  {
+    "n": 15,
+    "file": "art/prints/015-mountain-range-forest.svg",
+    "title": "Mountain Range \u00b7 Forest",
+    "category": "Landscape"
+  },
+  {
+    "n": 16,
+    "file": "art/prints/016-sunburst-terracotta.svg",
+    "title": "Sunburst \u00b7 Terracotta",
+    "category": "Mid-Century"
+  },
+  {
+    "n": 17,
+    "file": "art/prints/017-sunburst-plum.svg",
+    "title": "Sunburst \u00b7 Plum",
+    "category": "Mid-Century"
+  },
+  {
+    "n": 18,
+    "file": "art/prints/018-sunburst-coral-reef.svg",
+    "title": "Sunburst \u00b7 Coral Reef",
+    "category": "Mid-Century"
+  },
+  {
+    "n": 19,
+    "file": "art/prints/019-sunburst-sandstone.svg",
+    "title": "Sunburst \u00b7 Sandstone",
+    "category": "Mid-Century"
+  },
+  {
+    "n": 20,
+    "file": "art/prints/020-sunburst-dune.svg",
+    "title": "Sunburst \u00b7 Dune",
+    "category": "Mid-Century"
+  },
+  {
+    "n": 21,
+    "file": "art/prints/021-concentric-arcs-terracotta.svg",
+    "title": "Concentric Arcs \u00b7 Terracotta",
+    "category": "Abstract"
+  },
+  {
+    "n": 22,
+    "file": "art/prints/022-concentric-arcs-midnight.svg",
+    "title": "Concentric Arcs \u00b7 Midnight",
+    "category": "Abstract"
+  },
+  {
+    "n": 23,
+    "file": "art/prints/023-concentric-arcs-blush.svg",
+    "title": "Concentric Arcs \u00b7 Blush",
+    "category": "Abstract"
+  },
+  {
+    "n": 24,
+    "file": "art/prints/024-concentric-arcs-terracotta.svg",
+    "title": "Concentric Arcs \u00b7 Terracotta",
+    "category": "Abstract"
+  },
+  {
+    "n": 25,
+    "file": "art/prints/025-concentric-arcs-terracotta.svg",
+    "title": "Concentric Arcs \u00b7 Terracotta",
+    "category": "Abstract"
+  },
+  {
+    "n": 26,
+    "file": "art/prints/026-bauhaus-grid-blush.svg",
+    "title": "Bauhaus Grid \u00b7 Blush",
+    "category": "Modernist"
+  },
+  {
+    "n": 27,
+    "file": "art/prints/027-bauhaus-grid-ocean.svg",
+    "title": "Bauhaus Grid \u00b7 Ocean",
+    "category": "Modernist"
+  },
+  {
+    "n": 28,
+    "file": "art/prints/028-bauhaus-grid-dune.svg",
+    "title": "Bauhaus Grid \u00b7 Dune",
+    "category": "Modernist"
+  },
+  {
+    "n": 29,
+    "file": "art/prints/029-bauhaus-grid-cobalt.svg",
+    "title": "Bauhaus Grid \u00b7 Cobalt",
+    "category": "Modernist"
+  },
+  {
+    "n": 30,
+    "file": "art/prints/030-bauhaus-grid-terracotta.svg",
+    "title": "Bauhaus Grid \u00b7 Terracotta",
+    "category": "Modernist"
+  },
+  {
+    "n": 31,
+    "file": "art/prints/031-spirograph-terracotta.svg",
+    "title": "Spirograph \u00b7 Terracotta",
+    "category": "Geometric"
+  },
+  {
+    "n": 32,
+    "file": "art/prints/032-spirograph-coral-reef.svg",
+    "title": "Spirograph \u00b7 Coral Reef",
+    "category": "Geometric"
+  },
+  {
+    "n": 33,
+    "file": "art/prints/033-spirograph-sage.svg",
+    "title": "Spirograph \u00b7 Sage",
+    "category": "Geometric"
+  },
+  {
+    "n": 34,
+    "file": "art/prints/034-spirograph-ocean.svg",
+    "title": "Spirograph \u00b7 Ocean",
+    "category": "Geometric"
+  },
+  {
+    "n": 35,
+    "file": "art/prints/035-spirograph-coral-reef.svg",
+    "title": "Spirograph \u00b7 Coral Reef",
+    "category": "Geometric"
+  },
+  {
+    "n": 36,
+    "file": "art/prints/036-sound-waves-forest.svg",
+    "title": "Sound Waves \u00b7 Forest",
+    "category": "Abstract"
+  },
+  {
+    "n": 37,
+    "file": "art/prints/037-sound-waves-blush.svg",
+    "title": "Sound Waves \u00b7 Blush",
+    "category": "Abstract"
+  },
+  {
+    "n": 38,
+    "file": "art/prints/038-sound-waves-slate-rose.svg",
+    "title": "Sound Waves \u00b7 Slate Rose",
+    "category": "Abstract"
+  },
+  {
+    "n": 39,
+    "file": "art/prints/039-sound-waves-mono-ink.svg",
+    "title": "Sound Waves \u00b7 Mono Ink",
+    "category": "Abstract"
+  },
+  {
+    "n": 40,
+    "file": "art/prints/040-seigaiha-waves-sandstone.svg",
+    "title": "Seigaiha Waves \u00b7 Sandstone",
+    "category": "Pattern"
+  },
+  {
+    "n": 41,
+    "file": "art/prints/041-seigaiha-waves-slate-rose.svg",
+    "title": "Seigaiha Waves \u00b7 Slate Rose",
+    "category": "Pattern"
+  },
+  {
+    "n": 42,
+    "file": "art/prints/042-seigaiha-waves-forest.svg",
+    "title": "Seigaiha Waves \u00b7 Forest",
+    "category": "Pattern"
+  },
+  {
+    "n": 43,
+    "file": "art/prints/043-moon-phases-blush.svg",
+    "title": "Moon Phases \u00b7 Blush",
+    "category": "Celestial"
+  },
+  {
+    "n": 44,
+    "file": "art/prints/044-moon-phases-mono-ink.svg",
+    "title": "Moon Phases \u00b7 Mono Ink",
+    "category": "Celestial"
+  },
+  {
+    "n": 45,
+    "file": "art/prints/045-moon-phases-mono-ink.svg",
+    "title": "Moon Phases \u00b7 Mono Ink",
+    "category": "Celestial"
+  },
+  {
+    "n": 46,
+    "file": "art/prints/046-constellation-terracotta.svg",
+    "title": "Constellation \u00b7 Terracotta",
+    "category": "Celestial"
+  },
+  {
+    "n": 47,
+    "file": "art/prints/047-constellation-blush.svg",
+    "title": "Constellation \u00b7 Blush",
+    "category": "Celestial"
+  },
+  {
+    "n": 48,
+    "file": "art/prints/048-constellation-blush.svg",
+    "title": "Constellation \u00b7 Blush",
+    "category": "Celestial"
+  },
+  {
+    "n": 49,
+    "file": "art/prints/049-circle-packing-ocean.svg",
+    "title": "Circle Packing \u00b7 Ocean",
+    "category": "Generative"
+  },
+  {
+    "n": 50,
+    "file": "art/prints/050-circle-packing-blush.svg",
+    "title": "Circle Packing \u00b7 Blush",
+    "category": "Generative"
+  },
+  {
+    "n": 51,
+    "file": "art/prints/051-circle-packing-slate-rose.svg",
+    "title": "Circle Packing \u00b7 Slate Rose",
+    "category": "Generative"
+  },
+  {
+    "n": 52,
+    "file": "art/prints/052-circle-packing-sandstone.svg",
+    "title": "Circle Packing \u00b7 Sandstone",
+    "category": "Generative"
+  },
+  {
+    "n": 53,
+    "file": "art/prints/053-low-poly-facets-dune.svg",
+    "title": "Low-Poly Facets \u00b7 Dune",
+    "category": "Generative"
+  },
+  {
+    "n": 54,
+    "file": "art/prints/054-low-poly-facets-ocean.svg",
+    "title": "Low-Poly Facets \u00b7 Ocean",
+    "category": "Generative"
+  },
+  {
+    "n": 55,
+    "file": "art/prints/055-low-poly-facets-plum.svg",
+    "title": "Low-Poly Facets \u00b7 Plum",
+    "category": "Generative"
+  },
+  {
+    "n": 56,
+    "file": "art/prints/056-low-poly-facets-mono-ink.svg",
+    "title": "Low-Poly Facets \u00b7 Mono Ink",
+    "category": "Generative"
+  },
+  {
+    "n": 57,
+    "file": "art/prints/057-nested-squares-mono-ink.svg",
+    "title": "Nested Squares \u00b7 Mono Ink",
+    "category": "Modernist"
+  },
+  {
+    "n": 58,
+    "file": "art/prints/058-nested-squares-sandstone.svg",
+    "title": "Nested Squares \u00b7 Sandstone",
+    "category": "Modernist"
+  },
+  {
+    "n": 59,
+    "file": "art/prints/059-nested-squares-ocean.svg",
+    "title": "Nested Squares \u00b7 Ocean",
+    "category": "Modernist"
+  },
+  {
+    "n": 60,
+    "file": "art/prints/060-nested-squares-ocean.svg",
+    "title": "Nested Squares \u00b7 Ocean",
+    "category": "Modernist"
+  },
+  {
+    "n": 61,
+    "file": "art/prints/061-terrazzo-midnight.svg",
+    "title": "Terrazzo \u00b7 Midnight",
+    "category": "Pattern"
+  },
+  {
+    "n": 62,
+    "file": "art/prints/062-terrazzo-midnight.svg",
+    "title": "Terrazzo \u00b7 Midnight",
+    "category": "Pattern"
+  },
+  {
+    "n": 63,
+    "file": "art/prints/063-terrazzo-mint-noir.svg",
+    "title": "Terrazzo \u00b7 Mint Noir",
+    "category": "Pattern"
+  },
+  {
+    "n": 64,
+    "file": "art/prints/064-terrazzo-sandstone.svg",
+    "title": "Terrazzo \u00b7 Sandstone",
+    "category": "Pattern"
+  },
+  {
+    "n": 65,
+    "file": "art/prints/065-botanical-sprig-mono-ink.svg",
+    "title": "Botanical Sprig \u00b7 Mono Ink",
+    "category": "Botanical"
+  },
+  {
+    "n": 66,
+    "file": "art/prints/066-botanical-sprig-midnight.svg",
+    "title": "Botanical Sprig \u00b7 Midnight",
+    "category": "Botanical"
+  },
+  {
+    "n": 67,
+    "file": "art/prints/067-botanical-sprig-coral-reef.svg",
+    "title": "Botanical Sprig \u00b7 Coral Reef",
+    "category": "Botanical"
+  },
+  {
+    "n": 68,
+    "file": "art/prints/068-botanical-sprig-citrus.svg",
+    "title": "Botanical Sprig \u00b7 Citrus",
+    "category": "Botanical"
+  },
+  {
+    "n": 69,
+    "file": "art/prints/069-op-art-rings-citrus.svg",
+    "title": "Op-Art Rings \u00b7 Citrus",
+    "category": "Op-Art"
+  },
+  {
+    "n": 70,
+    "file": "art/prints/070-op-art-rings-mono-ink.svg",
+    "title": "Op-Art Rings \u00b7 Mono Ink",
+    "category": "Op-Art"
+  },
+  {
+    "n": 71,
+    "file": "art/prints/071-op-art-rings-cobalt.svg",
+    "title": "Op-Art Rings \u00b7 Cobalt",
+    "category": "Op-Art"
+  },
+  {
+    "n": 72,
+    "file": "art/prints/072-flow-field-sage.svg",
+    "title": "Flow Field \u00b7 Sage",
+    "category": "Generative"
+  },
+  {
+    "n": 73,
+    "file": "art/prints/073-flow-field-mono-ink.svg",
+    "title": "Flow Field \u00b7 Mono Ink",
+    "category": "Generative"
+  },
+  {
+    "n": 74,
+    "file": "art/prints/074-flow-field-sandstone.svg",
+    "title": "Flow Field \u00b7 Sandstone",
+    "category": "Generative"
+  },
+  {
+    "n": 75,
+    "file": "art/prints/075-flow-field-sage.svg",
+    "title": "Flow Field \u00b7 Sage",
+    "category": "Generative"
+  },
+  {
+    "n": 76,
+    "file": "art/prints/076-gradient-dawn-plum.svg",
+    "title": "Gradient Dawn \u00b7 Plum",
+    "category": "Abstract"
+  },
+  {
+    "n": 77,
+    "file": "art/prints/077-gradient-dawn-terracotta.svg",
+    "title": "Gradient Dawn \u00b7 Terracotta",
+    "category": "Abstract"
+  },
+  {
+    "n": 78,
+    "file": "art/prints/078-gradient-dawn-mono-ink.svg",
+    "title": "Gradient Dawn \u00b7 Mono Ink",
+    "category": "Abstract"
+  },
+  {
+    "n": 79,
+    "file": "art/prints/079-dot-matrix-ocean.svg",
+    "title": "Dot Matrix \u00b7 Ocean",
+    "category": "Pattern"
+  },
+  {
+    "n": 80,
+    "file": "art/prints/080-dot-matrix-mint-noir.svg",
+    "title": "Dot Matrix \u00b7 Mint Noir",
+    "category": "Pattern"
+  },
+  {
+    "n": 81,
+    "file": "art/prints/081-dot-matrix-sage.svg",
+    "title": "Dot Matrix \u00b7 Sage",
+    "category": "Pattern"
+  },
+  {
+    "n": 82,
+    "file": "art/prints/082-spinning-squares-slate-rose.svg",
+    "title": "Spinning Squares \u00b7 Slate Rose",
+    "category": "Op-Art"
+  },
+  {
+    "n": 83,
+    "file": "art/prints/083-spinning-squares-plum.svg",
+    "title": "Spinning Squares \u00b7 Plum",
+    "category": "Op-Art"
+  },
+  {
+    "n": 84,
+    "file": "art/prints/084-spinning-squares-ocean.svg",
+    "title": "Spinning Squares \u00b7 Ocean",
+    "category": "Op-Art"
+  },
+  {
+    "n": 85,
+    "file": "art/prints/085-tree-rings-coral-reef.svg",
+    "title": "Tree Rings \u00b7 Coral Reef",
+    "category": "Organic"
+  },
+  {
+    "n": 86,
+    "file": "art/prints/086-tree-rings-sandstone.svg",
+    "title": "Tree Rings \u00b7 Sandstone",
+    "category": "Organic"
+  },
+  {
+    "n": 87,
+    "file": "art/prints/087-tree-rings-dune.svg",
+    "title": "Tree Rings \u00b7 Dune",
+    "category": "Organic"
+  },
+  {
+    "n": 88,
+    "file": "art/prints/088-city-skyline-plum.svg",
+    "title": "City Skyline \u00b7 Plum",
+    "category": "Landscape"
+  },
+  {
+    "n": 89,
+    "file": "art/prints/089-city-skyline-blush.svg",
+    "title": "City Skyline \u00b7 Blush",
+    "category": "Landscape"
+  },
+  {
+    "n": 90,
+    "file": "art/prints/090-city-skyline-midnight.svg",
+    "title": "City Skyline \u00b7 Midnight",
+    "category": "Landscape"
+  },
+  {
+    "n": 91,
+    "file": "art/prints/091-warped-checker-mint-noir.svg",
+    "title": "Warped Checker \u00b7 Mint Noir",
+    "category": "Op-Art"
+  },
+  {
+    "n": 92,
+    "file": "art/prints/092-warped-checker-terracotta.svg",
+    "title": "Warped Checker \u00b7 Terracotta",
+    "category": "Op-Art"
+  },
+  {
+    "n": 93,
+    "file": "art/prints/093-warped-checker-cobalt.svg",
+    "title": "Warped Checker \u00b7 Cobalt",
+    "category": "Op-Art"
+  },
+  {
+    "n": 94,
+    "file": "art/prints/094-candy-critter-1-sandstone.svg",
+    "title": "Candy Critter #1 \u00b7 Sandstone",
+    "category": "Candy Critters"
+  },
+  {
+    "n": 95,
+    "file": "art/prints/095-candy-critter-2-sandstone.svg",
+    "title": "Candy Critter #2 \u00b7 Sandstone",
+    "category": "Candy Critters"
+  },
+  {
+    "n": 96,
+    "file": "art/prints/096-candy-critter-3-citrus.svg",
+    "title": "Candy Critter #3 \u00b7 Citrus",
+    "category": "Candy Critters"
+  },
+  {
+    "n": 97,
+    "file": "art/prints/097-candy-critter-4-plum.svg",
+    "title": "Candy Critter #4 \u00b7 Plum",
+    "category": "Candy Critters"
+  },
+  {
+    "n": 98,
+    "file": "art/prints/098-candy-critter-5-mono-ink.svg",
+    "title": "Candy Critter #5 \u00b7 Mono Ink",
+    "category": "Candy Critters"
+  },
+  {
+    "n": 99,
+    "file": "art/prints/099-quote-stay-wild-moon-child.svg",
+    "title": "Quote \u00b7 Stay wild moon child",
+    "category": "Typography"
+  },
+  {
+    "n": 100,
+    "file": "art/prints/100-quote-less-is-more.svg",
+    "title": "Quote \u00b7 Less is more",
+    "category": "Typography"
+  }
+]
